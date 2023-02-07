@@ -17,7 +17,7 @@ class Me < SoftwareDeveloper
   end
   
   def contact(message)
-    ContactMailer.new(message, "tmusselman@gmail.com")
+    ContactMailer.send(message, "tmusselman@gmail.com")
   end
   
 end
