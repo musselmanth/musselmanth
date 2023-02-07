@@ -9,7 +9,8 @@ class Me < SoftwareDeveloper
     @technologies = {
       languages: ["Ruby", "JavaScript", "Python", "HTML/CSS", "SQL/PostgreSQL],
       frameworks: ["Rails", "React"],
-      tools: ["Git/GitHub", "CI/CD", "Heroku"]
+      tools: ["Git/GitHub", "CI/CD", "Heroku"],
+      testing: ["RSpec", "VCR/Webmock"]
     }
     @linked_in = "https://www.linkedin.com/in/tmussel/"
     @status = "Seeking Employment"
