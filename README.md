@@ -13,6 +13,7 @@ class Me < SoftwareDeveloper
       testing: ["RSpec", "VCR/Webmock"]
     }
     @linked_in = "https://www.linkedin.com/in/tmussel/"
+    @portfolio = ~~~"https://www.tommusselman.com"~~~
     @status = "Seeking Employment"
     super
   end
