@@ -29,4 +29,4 @@ end
 
 - [tommusselman.com](https://www.tommusselman.com)
 
-- [LinkedIn]([LinkedIn](https://www.linkedin.com/in/tmussel))
+- [LinkedIn](https://www.linkedin.com/in/tmussel)
