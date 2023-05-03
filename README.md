@@ -13,7 +13,7 @@ class Me < SoftwareDeveloper
       testing: ["RSpec", "VCR/Webmock"]
     }
     @linked_in = "https://www.linkedin.com/in/tmussel/"
-    @portfolio = ~~~"https://www.tommusselman.com"~~~
+    @portfolio = "https://www.tommusselman.com"
     @status = "Seeking Employment"
     super
   end
@@ -24,3 +24,9 @@ class Me < SoftwareDeveloper
   
 end
 ```
+
+- [tmusselman@gmail.com](mailto:tmusselman@gmail.com)
+
+- [tommusselman.com](https://www.tommusselman.com)
+
+- [LinkedIn]([LinkedIn](https://www.linkedin.com/in/tmussel))
